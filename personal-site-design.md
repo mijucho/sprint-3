@@ -8,4 +8,4 @@
    I would like to show what I have learnt through EDA and make my website easy to navigate.
    
 *  How will you build your site to support your desired user experience?
-   I will build my sitee, in a wat that is easy to find and access content with accessing different devices.
+   I want to build my site that is easy to find and access content while accessing different devices.
